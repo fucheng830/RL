@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//AlgorithmTest/BlackJack/Env.py=utf-8
+encoding//AlgorithmTest/BlackJack/utils.py=utf-8
+encoding//AlgorithmTest/iter_policy_evaluation.py=utf-8
+encoding//AlgorithmTest/value_iteration_4x4.py=utf-8
+encoding//base/Agent.py=utf-8
+encoding//base/gridworld.py=utf-8
+encoding//reinforce/codes_for_book/c03/Jack_Car_Rental.py=utf-8
+encoding//reinforce/codes_for_book/c04/MC_control_BlackJack.py=utf-8
+encoding//reinforce/codes_for_book/c04/utils.py=utf-8
+encoding//reinforce/examples/SarsaAgent.py=utf-8
+encoding//source/demo.py=utf-8
+encoding//source/find_gold.py=utf-8
